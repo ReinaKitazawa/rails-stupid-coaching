@@ -1,0 +1,25 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body{
+  margin: 30px;
+}
+.inputText{
+  width: 300px;
+  padding: 5px 0;
+}
+.inputBtn{
+  padding: 5px 15px;
+}
+.you, .your_coach{
+  border-left : 3px solid palevioletred;
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+.ask{
+  text-decoration: none;
+}
+.italic{
+  font-style:italic;
+}
